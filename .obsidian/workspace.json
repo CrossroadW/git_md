@@ -11,36 +11,8 @@
             "id": "150a3cd8682ec12c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.txt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfc2cf0d216ea8f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A/1.md.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6ad2c465285c7896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A/1.md.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.txt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.txt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,8 +140,11 @@
   },
   "active": "150a3cd8682ec12c",
   "lastOpenFiles": [
-    "A/1.md.md",
     "README.txt.md",
+    "README.md",
+    "A/2.md",
+    "A/1.md",
+    "A/1.md.md",
     "A/2.md.md",
     "A"
   ]
